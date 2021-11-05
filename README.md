@@ -8,7 +8,7 @@
 4. The application should support config-changes gracefully
 
 
-5. Bonus points use generate a [ISO-3 (Format 3)](https://www.eftlab.com/knowledge-base/261-complete-list-of-pin-blocks-in-payments/) PIN Block (using a hardcoded PAN of `1111222233334444`) instead of ISO-1.
+5. Bonus points - generate a [ISO-3 (Format 3)](https://www.eftlab.com/knowledge-base/261-complete-list-of-pin-blocks-in-payments/) PIN Block (using a hardcoded PAN of `1111222233334444`) instead of ISO-1.
 ## Useful code (for ISO-3 PIN Block only)
 
  ```
